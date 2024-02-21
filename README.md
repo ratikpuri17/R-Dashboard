@@ -53,11 +53,15 @@ other summary statistics for AQI.
 groups or conditions.
 
 
- 
-   
+ <img width="452" alt="image" src="https://github.com/ratikpuri17/R-Dashboard/assets/34935844/e44425bc-72b9-415c-a95a-e50ca2908091">
+
+<img width="452" alt="image" src="https://github.com/ratikpuri17/R-Dashboard/assets/34935844/448e794c-041e-4450-a16c-4c5e0a108649">
+
+<img width="452" alt="image" src="https://github.com/ratikpuri17/R-Dashboard/assets/34935844/84c76049-bd77-40da-a4c4-7fa2f50522aa">
+
+<img width="452" alt="image" src="https://github.com/ratikpuri17/R-Dashboard/assets/34935844/ae4fe932-8175-4d9f-8e8b-7318be338269">
 
 
 •	The graphs show that air pollution for all cities was reduced in 2020 due to the covid 19 induced lockdown.
 
 •	The graphs also show pollution comparison of different cities. The same can be used to study initiatives in cities with less pollution and problems in cities with high air pollution.
-![image](https://github.com/ratikpuri17/R-Dashboard/assets/34935844/0ca3ee69-28a1-4750-8a9f-30679c84849f)
